@@ -7,7 +7,6 @@
 
 ## 🚀 About Me  
 - 🎓 Computer Science student passionate about building **secure and scalable applications**  
-- 🔐 Experienced in **firewall technologies, network security, and security policy development**  
 - 🤖 Exploring **AI-powered automation** for security and development workflows  
 - 🛠 Currently learning **Django, React, and backend system design**  
 - 🌱 Open to collaboration on **fullstack projects, security tools, or AI-driven solutions**  
