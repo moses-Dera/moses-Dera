@@ -22,11 +22,11 @@
  
 
 **AI & Automation:**  
-- OpenAI API | Workflow automation (n8n, Make) | Python scripting  
+- Workflow automation (n8n, Make)
 
 ## 📫 Connect With Me  
 - 📧 Email: okonkwomoses158@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/moses-chidera-okonkwo) | 🐦 [Twitter](https://www.x.com/0x_moze)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/m-chidera-okonkwo/) | 🐦 [Twitter](https://www.x.com/0x_moze)  
 
 ---
 ⭐️ *“Building the future with code, securing it with cybersecurity, and scaling it with AI.”*  
