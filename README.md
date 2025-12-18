@@ -1,28 +1,23 @@
 
-# 👋 Hi, I'm Moses Okonkwo  
+# Moses Okonkwo  
 
-💻 **Junior software Developer | AI Automation  **  
-
+ **Full-stack software Engineer **  
 ---
 
 ##  About Me  
 -  Computer Science student passionate about building **secure and scalable applications**    
--  Currently learning **Django, React, and backend system design**  
--  Open to collaboration on **fullstack projects, security tools, or AI-driven solutions**  
+-  Open to collaboration on **fullstack projects or AI-driven solutions**  
 
 ---
 
 ## 🛠 Tech Stack  
 **Languages & Frameworks:**  
-- Python | JavaScript (Node.js, React)  | HTML | CSS  | linux
+- Python| FAstAPI | JavaScript | Nodejs | Nextjs | Reactjs | HTML | CSS  | linux
 
 **Databases & Tools:**  
-- PostgreSQL | MySQL 
-- Git & GitHub | Docker | Supabase | Airtable  
+- PostgreSQL | MySQL | MOngoDb  | Supabase | Prisma
+- Git & GitHub | Docker  
  
-
-**AI & Automation:**  
-- Workflow automation (n8n, Make)
 
 ## 📫 Connect With Me  
 - 📧 Email: okonkwomoses158@gmail.com
