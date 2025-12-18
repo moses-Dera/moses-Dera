@@ -3,16 +3,14 @@
 
  Full-stack software Engineer   
 ---
-
-##  About Me  
--  Computer Science student passionate about building **secure and scalable applications**    
+-  Building **secure and scalable applications**    
 -  Open to collaboration on **fullstack projects or AI-driven solutions**  
 
 ---
 
 ## 🛠 Tech Stack  
 **Languages & Frameworks:**  
-- Python| FAstAPI | JavaScript | Nodejs | Nextjs | Reactjs | HTML | CSS  | linux
+- Python| FastAPI | JavaScript | Nodejs | Nextjs | Reactjs | HTML | CSS  | linux
 
 **Databases & Tools:**  
 - PostgreSQL | MySQL | MOngoDb  | Supabase | Prisma
