@@ -1,7 +1,7 @@
 
 # Moses Okonkwo  
 
- **Full-stack software Engineer **  
+ Full-stack software Engineer   
 ---
 
 ##  About Me  
