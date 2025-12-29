@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack  
 **Languages & Frameworks:**  
-- Python| FastAPI | JavaScript | Nodejs | Nextjs | Reactjs | HTML | CSS  | linux
+- Python| FastAPI | JavaScript | Nodejs | Nextjs | Reactjs 
 
 **Databases & Tools:**  
 - PostgreSQL | MySQL | MOngoDb  | Supabase | Prisma
