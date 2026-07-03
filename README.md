@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Moses Okonkwo</h1>
-  <h3>Senior System Architect | Lead Backend Engineer</h3>
+  <p><i>Senior System Architect &nbsp;&bull;&nbsp; Lead Backend Engineer</i></p>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+secure+and+scalable+applications;Architecting+high-concurrency+systems;Crafting+modern+Full-Stack+solutions;Scaling+the+future+with+AI" alt="Typing SVG" />
