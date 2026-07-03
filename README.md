@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="top" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-Dera&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moses-Dera&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -63,7 +63,7 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moses-Dera&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5" alt="Moses's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=moses-Dera&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5" alt="Moses's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-Dera&theme=tokyonight&hide_border=true&title_color=00ADB5" alt="Moses's GitHub Streak" />
 </div>
 
