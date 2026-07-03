@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Moses Okonkwo</h1>
-  <p><i>Senior System Architect &nbsp;&bull;&nbsp; Lead Backend Engineer</i></p>
+  <h3>Moses Okonkwo</h3>
+  <p><i>Software Engineer &nbsp;&bull;&nbsp; Backend & Infrastructure</i></p>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+secure+and+scalable+applications;Architecting+high-concurrency+systems;Crafting+modern+Full-Stack+solutions;Scaling+the+future+with+AI" alt="Typing SVG" />
@@ -15,7 +15,7 @@
   <tr style="border:none;">
     <td width="55%" valign="top" style="border:none;">
       <ul>
-        <li><strong>Senior System Architect & Lead Backend Engineer</strong> with expertise in high-concurrency systems and distributed architectures.</li>
+        <li><strong>Software Engineer (Backend & Infrastructure)</strong> with expertise in high-concurrency systems and distributed architectures.</li>
         <li><strong>Cloud & DevOps:</strong> Proficient in GCP, Docker Swarm, Serverless infrastructure, and zero-downtime deployment pipelines.</li>
         <li><strong>Current Focus:</strong> Architecting hybrid microservices, AI ops integrations, and secure internal dashboards (ZTNA).</li>
         <li><strong>Collaboration:</strong> Open to working on full-stack projects, open-source tech, or AI-driven platforms.</li>
@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/Cairo-000000?style=for-the-badge&logoColor=white" alt="Cairo" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
