@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Moses Okonkwo</h3>
-  <p><i>Software Engineer &nbsp;&bull;&nbsp; Backend & Infrastructure</i></p>
+  <p><i>Software Engineer &nbsp;&bull;&nbsp; Full-Stack & Infrastructure</i></p>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Building+secure+and+scalable+applications;Architecting+high-concurrency+systems;Crafting+modern+Full-Stack+solutions;Scaling+the+future+with+AI" alt="Typing SVG" />
@@ -15,7 +15,7 @@
   <tr style="border:none;">
     <td width="55%" valign="top" style="border:none;">
       <ul>
-        <li><strong>Software Engineer (Backend & Infrastructure)</strong> with expertise in high-concurrency systems and distributed architectures.</li>
+        <li><strong>Software Engineer (Full-Stack & Infrastructure)</strong> with expertise in high-concurrency systems and distributed architectures.</li>
         <li><strong>Cloud & DevOps:</strong> Proficient in GCP, Docker Swarm, Serverless infrastructure, and zero-downtime deployment pipelines.</li>
         <li><strong>Current Focus:</strong> Architecting hybrid microservices, AI ops integrations, and secure internal dashboards (ZTNA).</li>
         <li><strong>Collaboration:</strong> Open to working on full-stack projects, open-source tech, or AI-driven platforms.</li>
