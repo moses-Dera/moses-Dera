@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="top" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-Dera&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5&bg_color=00000000" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses-Dera&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -34,6 +34,7 @@
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </p>
@@ -43,6 +44,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </p>
   <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
@@ -61,19 +63,10 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moses-Dera&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5&bg_color=00000000" alt="Moses's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-Dera&theme=tokyonight&hide_border=true&title_color=00ADB5&background=00000000" alt="Moses's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moses-Dera&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5" alt="Moses's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-Dera&theme=tokyonight&hide_border=true&title_color=00ADB5" alt="Moses's GitHub Streak" />
 </div>
 
----
-
-### Featured Architectures
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Master-Trip** | High-performance travel backend handling 10,000+ RPS. Features a hybrid API, PgBouncer, Upstash Redis, and an isolated AI worker fulfillment pipeline. | `Next.js`, `Hono`, `Prisma`, `PostgreSQL`, `Redis` |
-| **ScooterIdea** | Multi-service Smart Trip Validation platform with containerized backend, Next.js frontend, and real-time MQTT telemetry. | `FastAPI`, `Docker Swarm`, `Mosquitto`, `MQTT` |
-| **myfredserver** | Serverless student management API migrated to scale-to-zero infrastructure on GCP using Cloud Tasks and Cloud Run. | `Node.js`, `GCP (Run/Tasks)`, `BullMQ` |
 
 ---
 
